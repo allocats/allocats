@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-learning
+always keep learning
 
-i like optimising stuff
+I like optimising stuff
